@@ -35,6 +35,7 @@ The goal of this repository is to demonstrate practical applications of signal p
 
 ## 👤 Author
 
-Jamil Alrubaye 
-Master’s Student in Biomedical Engineering 
+**Jamil Alrubaye**
+Master’s Student in Biomedical Engineering
 University of Oulu
+
