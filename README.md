@@ -17,6 +17,19 @@ This repository contains MATLAB implementations of laboratory work completed as 
   * Spectrogram analysis
   * Relative band power calculation
   * Spectral entropy
+ 
+* **Lab_3 – EEG Topographic Analysis**
+  - EEG channel visualization
+  - Topographic mapping (topoplot)
+  - Relative band power distribution
+  - Alpha and Delta activity comparison
+
+* **Lab_4 – Epileptic Seizure Analysis**
+  - Raw EEG visualization
+  - Spectrogram analysis
+  - Spectral entropy detection
+  - Ictal vs Interictal comparison
+  - Nonlinear analysis (2D embedding)
 
 ---
 
